@@ -1,2 +1,2 @@
-# Alx-pre_course
-I'm now an alx student, this is my first repository as a full stack engineer.
+# zero_day
+This is my first repository as a full-stack engineer
